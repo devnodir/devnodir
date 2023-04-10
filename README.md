@@ -12,6 +12,7 @@ I’m a Frontend developer with experience in building websites for small and me
 -  :telescope: I am working on SPA and MPA websites and provide them with SEO functionalities
 -  :zap: In my free time I solve problems in Leetcode and work on Upwork platform
 -  :mailbox: How to reach me: devnodir@gmail.com
+-  :mailbox: How to reach me: devnodir@gmail.com
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
