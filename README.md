@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://devnodir.uz/assets/avatar-8802abf7.png" width="100" />
+  <img src="https://raw.githubusercontent.com/devnodir/devnodir/8244bc77b130f899290baad04c695182f1f41ddf/assets/devnodir.svg" width="100" />
   <div>Hi there 👋</div>
 </div>
 
