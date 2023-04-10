@@ -22,6 +22,9 @@ I’m a Frontend developer with experience in building websites for small and me
   <img src="https://raw.githubusercontent.com/devnodir/devnodir/main/assets/nodejs.webp" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devnodir/devnodir/blob/main/assets/react-native.png" title="ReactNative" alt="ReactNative" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devnodir/devnodir/blob/main/assets/react-query.png" title="ReactQuery" alt="ReactQuery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devnodir/devnodir/blob/main/assets/redux.png?raw=true" title="ReactRedux" alt="ReactRedux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devnodir/devnodir/blob/main/assets/redux.png" title="ReactRedux" alt="ReactRedux" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devnodir/devnodir/blob/main/assets/ant.png" title="AntDesign" alt="AntDesign" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devnodir/devnodir/blob/main/assets/material.png" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devnodir/devnodir/blob/main/assets/tailwind.png" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
 
 <div/>
